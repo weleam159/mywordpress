@@ -10,7 +10,7 @@
 <channel>
 	<title>My WordPress</title>
 	<atom:link href="http://localhost/myproject/wordpress/feed/" rel="self" type="application/rss+xml" />
-	<link>http://weleam159.github.io/wordpress</link>
+	<link>http://weleam159.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Wed, 08 Sep 2021 01:01:06 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,53 +21,53 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>spam</title>
-		<link>http://weleam159.github.io/wordpress/spam/</link>
-					<comments>http://weleam159.github.io/wordpress/spam/#respond</comments>
+		<link>http://weleam159.github.io/mywordpress/spam/</link>
+					<comments>http://weleam159.github.io/mywordpress/spam/#respond</comments>
 		
 		<dc:creator><![CDATA[nguyengiatai]]></dc:creator>
 		<pubDate>Wed, 08 Sep 2021 01:01:06 +0000</pubDate>
 				<category><![CDATA[Chưa phân loại]]></category>
-		<guid isPermaLink="false">http://weleam159.github.io/wordpress/?p=130</guid>
+		<guid isPermaLink="false">http://weleam159.github.io/mywordpress/?p=130</guid>
 
 					<description><![CDATA[]]></description>
 		
-					<wfw:commentRss>http://weleam159.github.io/wordpress/spam/feed/</wfw:commentRss>
+					<wfw:commentRss>http://weleam159.github.io/mywordpress/spam/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Top 5 Game Thịnh Hành Tại Việt Nam</title>
-		<link>http://weleam159.github.io/wordpress/top-5-game-thinh-hanh-tai-viet-nam/</link>
-					<comments>http://weleam159.github.io/wordpress/top-5-game-thinh-hanh-tai-viet-nam/#respond</comments>
+		<link>http://weleam159.github.io/mywordpress/top-5-game-thinh-hanh-tai-viet-nam/</link>
+					<comments>http://weleam159.github.io/mywordpress/top-5-game-thinh-hanh-tai-viet-nam/#respond</comments>
 		
 		<dc:creator><![CDATA[nguyengiatai]]></dc:creator>
 		<pubDate>Mon, 30 Aug 2021 02:19:12 +0000</pubDate>
 				<category><![CDATA[Chưa phân loại]]></category>
-		<guid isPermaLink="false">http://weleam159.github.io/wordpress/?p=13</guid>
+		<guid isPermaLink="false">http://weleam159.github.io/mywordpress/?p=13</guid>
 
 					<description><![CDATA[Sau những giờ làm việc học tập hoặc làm việc căng thẳng, đôi khi chúng ta sẽ cần một ít phút thư giản cho quên đi những bộn bề đó và việc&#160;chơi game&#160;cũng là một trong những cách mà cũng nhiều bạn đang chọn, đặc biệt là giới trẻ hiện nay. 1.PUBG Với ưu thế [&#8230;]]]></description>
 		
-					<wfw:commentRss>http://weleam159.github.io/wordpress/top-5-game-thinh-hanh-tai-viet-nam/feed/</wfw:commentRss>
+					<wfw:commentRss>http://weleam159.github.io/mywordpress/top-5-game-thinh-hanh-tai-viet-nam/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
-		<enclosure url="http://weleam159.github.io/wordpress/wp-content/uploads/2021/08/Anri-Kumaki-風の記憶-Kaze-no-Kioku.mp3" length="3577856" type="audio/mpeg" />
-<enclosure url="http://weleam159.github.io/wordpress/wp-content/uploads/2021/09/Alan-Walker-Sing-Me-To-Sleep.mp3" length="3033291" type="audio/mpeg" />
+		<enclosure url="http://weleam159.github.io/mywordpress/wp-content/uploads/2021/08/Anri-Kumaki-風の記憶-Kaze-no-Kioku.mp3" length="3577856" type="audio/mpeg" />
+<enclosure url="http://weleam159.github.io/mywordpress/wp-content/uploads/2021/09/Alan-Walker-Sing-Me-To-Sleep.mp3" length="3033291" type="audio/mpeg" />
 
 			</item>
 		<item>
 		<title>Hello word!</title>
-		<link>http://weleam159.github.io/wordpress/chao-moi-nguoi/</link>
-					<comments>http://weleam159.github.io/wordpress/chao-moi-nguoi/#comments</comments>
+		<link>http://weleam159.github.io/mywordpress/chao-moi-nguoi/</link>
+					<comments>http://weleam159.github.io/mywordpress/chao-moi-nguoi/#comments</comments>
 		
 		<dc:creator><![CDATA[nguyengiatai]]></dc:creator>
 		<pubDate>Mon, 23 Aug 2021 00:34:35 +0000</pubDate>
 				<category><![CDATA[Chưa phân loại]]></category>
-		<guid isPermaLink="false">http://weleam159.github.io/wordpress/?p=1</guid>
+		<guid isPermaLink="false">http://weleam159.github.io/mywordpress/?p=1</guid>
 
 					<description><![CDATA[Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!]]></description>
 		
-					<wfw:commentRss>http://weleam159.github.io/wordpress/chao-moi-nguoi/feed/</wfw:commentRss>
+					<wfw:commentRss>http://weleam159.github.io/mywordpress/chao-moi-nguoi/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

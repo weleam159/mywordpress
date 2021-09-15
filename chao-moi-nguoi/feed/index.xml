@@ -9,7 +9,7 @@
 	<title>
 	Các phản hồi luận về: Hello word!	</title>
 	<atom:link href="http://localhost/myproject/wordpress/chao-moi-nguoi/feed/" rel="self" type="application/rss+xml" />
-	<link>http://weleam159.github.io/wordpress/chao-moi-nguoi/</link>
+	<link>http://weleam159.github.io/mywordpress/chao-moi-nguoi/</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Mon, 23 Aug 2021 00:35:48 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Bởi: Một người bình luận WordPress		</title>
-		<link>http://weleam159.github.io/wordpress/chao-moi-nguoi/#comment-1</link>
+		<link>http://weleam159.github.io/mywordpress/chao-moi-nguoi/#comment-1</link>
 
 		<dc:creator><![CDATA[Một người bình luận WordPress]]></dc:creator>
 		<pubDate>Mon, 23 Aug 2021 00:34:35 +0000</pubDate>
-		<guid isPermaLink="false">http://weleam159.github.io/wordpress/?p=1#comment-1</guid>
+		<guid isPermaLink="false">http://weleam159.github.io/mywordpress/?p=1#comment-1</guid>
 
 					<description><![CDATA[Xin chào, đây là một bình luận
 Để bắt đầu với quản trị bình luận, chỉnh sửa hoặc xóa bình luận, vui lòng truy cập vào khu vực Bình luận trong trang quản trị.
